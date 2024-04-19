@@ -9,3 +9,7 @@ This will eventually include all header files need to run but for now is just st
 ## Demonstration 
 ### It's Keepy Uppy at it's finest
 
+![Keepy Uppy GIF](./assets/keepyUppy.gif)
+
+## Further Work
+I'd still like to finetune the physics and add a high uppy count at the very least. Of course, I'll still want to add all the header files for engine, source code, dependencies, etc.
